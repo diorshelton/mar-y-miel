@@ -10,7 +10,7 @@ _Mar y Miel is a beautiful beachfront vacation home located in Luquillo, PR. Thi
 
 ## Setup/Installation Requirements
 
-* _Web browser capable of viewing website_
+* _Web browser capable of viewing HTML & CSS
 
 
 ## Support and contact details
